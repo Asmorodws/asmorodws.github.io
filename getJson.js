@@ -1,4 +1,4 @@
-const defaultJson = {
+{
   pages: [{
     name: "Name",
     elements: [{
